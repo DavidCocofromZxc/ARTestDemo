@@ -1,0 +1,29 @@
+PODS:
+  - AMap3DMap (6.5.0):
+    - AMapFoundation (~> 1.5)
+  - AMapFoundation (1.5.7)
+  - AMapLocation (2.6.3):
+    - AMapFoundation (~> 1.4)
+  - AVOSCloud (11.6.7)
+
+DEPENDENCIES:
+  - AMap3DMap (~> 6.5.0)
+  - AMapLocation (~> 2.6.2)
+  - AVOSCloud (~> 11.6.7)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AMap3DMap
+    - AMapFoundation
+    - AMapLocation
+    - AVOSCloud
+
+SPEC CHECKSUMS:
+  AMap3DMap: cbe10cc4302ac3f2817ef4221e1259d7e18d1c2f
+  AMapFoundation: 216d58448c80356434ac4332250a8fdb2f5c4d1e
+  AMapLocation: dc2c4fde95d72087d73934338160fadc72104bb7
+  AVOSCloud: 2668e39a72be5a4ede65ca0c98002f327d590dd2
+
+PODFILE CHECKSUM: d7849ede869c6522158144a85f68e3050cfce29b
+
+COCOAPODS: 1.5.0.beta.1
