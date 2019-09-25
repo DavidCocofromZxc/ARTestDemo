@@ -22,6 +22,7 @@
 		903F27FA23209A7400F63512 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 903F27F823209A7400F63512 /* MapViewController.m */; };
 		903F27FB23209A7400F63512 /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 903F27F923209A7400F63512 /* MapViewController.xib */; };
 		903F280023209D4100F63512 /* ZXNavVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 903F27FF23209D4100F63512 /* ZXNavVC.m */; };
+		906AD4C7233B472400F58AE1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 906AD4C6233B472400F58AE1 /* README.md */; };
 		90F6483723220AF700ADFE9F /* image.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90F6483623220AF700ADFE9F /* image.xcassets */; };
 		90F6483B23223CD100ADFE9F /* ZXPinAnnotationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 90F6483A23223CD100ADFE9F /* ZXPinAnnotationView.m */; };
 		90F6483E2325E4AA00ADFE9F /* ChatView.m in Sources */ = {isa = PBXBuildFile; fileRef = 90F6483D2325E4AA00ADFE9F /* ChatView.m */; };
@@ -80,6 +81,7 @@
 		903F27FE23209D4100F63512 /* ZXNavVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZXNavVC.h; sourceTree = "<group>"; };
 		903F27FF23209D4100F63512 /* ZXNavVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZXNavVC.m; sourceTree = "<group>"; };
 		903F28022320A05700F63512 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		906AD4C6233B472400F58AE1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		90F6483623220AF700ADFE9F /* image.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = image.xcassets; sourceTree = "<group>"; };
 		90F6483923223CD100ADFE9F /* ZXPinAnnotationView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZXPinAnnotationView.h; sourceTree = "<group>"; };
 		90F6483A23223CD100ADFE9F /* ZXPinAnnotationView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZXPinAnnotationView.m; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 		900870DB231E479E00BB3650 = {
 			isa = PBXGroup;
 			children = (
+				906AD4C6233B472400F58AE1 /* README.md */,
 				900870E6231E479E00BB3650 /* ARTest-sv */,
 				90087102231E479F00BB3650 /* ARTest-svTests */,
 				9008710D231E479F00BB3650 /* ARTest-svUITests */,
@@ -407,6 +410,7 @@
 				900870F4231E479F00BB3650 /* Assets.xcassets in Resources */,
 				90F6483723220AF700ADFE9F /* image.xcassets in Resources */,
 				903F27FB23209A7400F63512 /* MapViewController.xib in Resources */,
+				906AD4C7233B472400F58AE1 /* README.md in Resources */,
 				900870EF231E479E00BB3650 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
